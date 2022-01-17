@@ -8,3 +8,4 @@ As the game is launched it offers the option of single and multiplayer wherein o
 Single Player: A single player controls both the handles in order to collect maximum number of balls
 
 Multiplayer: One handle is controlled by different players each. They compete with each other the player with more number of balls caught wins.
+[![Watch the video](https://img.youtube.com/vi/0Nwz-dLULp4/maxresdefault.jpg)](https://www.youtube.com/watch?v=0Nwz-dLULp4)
