@@ -6,7 +6,7 @@
 - Single Player: A single player controls both the handles in order to collect maximum number of balls
 - Multiplayer: One handle is controlled by different players each. They compete with each other the player with more number of balls caught wins.
 </br>
-Game interface developed via Processing
+Game interface developed via Processing <br>
 Use of Arduino Microcontroller to receive signals from Ultrasonic sensors and Infrared Sensors for movement and touch detection.
 
 
